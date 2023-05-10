@@ -410,9 +410,3 @@ fig.tight_layout()
     
 ![png](output_15_0.png)
     
-
-
-
-```python
-
-```
